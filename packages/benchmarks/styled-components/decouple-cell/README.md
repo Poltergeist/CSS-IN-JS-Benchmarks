@@ -1,4 +1,4 @@
-# Styled-Components v2 - Decouple Cell Big Table
+# Styled-Components v3 - Decouple Cell Big Table
 
 ## Available Scripts
 
